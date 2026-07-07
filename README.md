@@ -69,11 +69,11 @@ Um projeto mais autônomo e maduro. Aqui você constrói **do zero**: setup do p
    - Cada pasta tem um `README.md` com requisitos e instruções
 
 3. **Desenvolva ao seu ritmo:**
-   - Trabalhe sozinho, traga para revisão
-   - Ou faça junto, em sessões
+   - Trabalhe nos requisitos de forma autossuficiente
+   - Use os recursos disponíveis e referências para avançar
 
 4. **Transição (opcional):**
-   - Completa JavaScript? Passe para React com a experiência acumulada
+   - Completou JavaScript? Passe para React com a experiência acumulada
 
 ---
 
