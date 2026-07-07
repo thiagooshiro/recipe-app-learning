@@ -92,12 +92,4 @@ Um projeto mais autônomo e maduro. Aqui você constrói **do zero**: setup do p
 
 ---
 
-## 📖 Próximos Passos
-
-- [ ] Ler `javascript/propostaProjeto.md` para entender os requisitos
-- [ ] Revisar `javascript/README.md` para começar
-- [ ] Iniciar com Requisito 1 (captura de elementos do DOM)
-
----
-
 **Bom código! 🚀**
